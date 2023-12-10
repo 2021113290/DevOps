@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3bcb3323-d21d-4638-b7e3-91827d16bb6c" name="更改" comment="修改test">
-      <change beforePath="$PROJECT_DIR$/src/test/java/L2021113290_18_Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Solution18Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.github/workflows/actions-demo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions-demo.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +89,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702211353035</updated>
-      <workItem from="1702211354491" duration="1876000" />
+      <workItem from="1702211354491" duration="2041000" />
     </task>
     <task id="LOCAL-00001" summary="提交 maven 项目到步骤二中仓库">
       <created>1702212081634</created>
@@ -133,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702213058193</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="修改test">
+      <created>1702213244055</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1702213244055</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
