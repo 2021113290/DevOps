@@ -1,7 +1,7 @@
 import org.junit.Assert;
 import org.junit.Test;
 
-public class L2021113290_18_Test {
+public class Solution18Test {
     @Test
     public void testProductExceptSelf() {
         Solution solution = new Solution();
