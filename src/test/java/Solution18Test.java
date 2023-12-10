@@ -7,7 +7,7 @@ public class Solution18Test {
         Solution solution = new Solution();
 
         // 测试用例1: 包含正整数的输入数组
-        int[] nums2 = {1, 2, 3, 5};
+        int[] nums2 = {1, 2, 3, 4};
         int[] expected2 = {24, 12, 8, 6};
         int[] result2 = solution.productExceptSelf(nums2);
         Assert.assertArrayEquals(expected2, result2);
