@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3bcb3323-d21d-4638-b7e3-91827d16bb6c" name="更改" comment="修改test">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/actions-demo.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/actions-demo.yml" afterDir="false" />
-    </list>
+    <list default="true" id="3bcb3323-d21d-4638-b7e3-91827d16bb6c" name="更改" comment="修改yml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,7 +87,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702211353035</updated>
-      <workItem from="1702211354491" duration="2041000" />
+      <workItem from="1702211354491" duration="2366000" />
     </task>
     <task id="LOCAL-00001" summary="提交 maven 项目到步骤二中仓库">
       <created>1702212081634</created>
@@ -140,7 +138,14 @@
       <option name="project" value="LOCAL" />
       <updated>1702213244055</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="修改yml">
+      <created>1702213410924</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702213410924</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,8 +155,8 @@
     <MESSAGE value="提交 maven 项目到步骤二中仓库" />
     <MESSAGE value="提交工作流文件到仓库" />
     <MESSAGE value="修改pom.xml" />
-    <MESSAGE value="修改yml" />
     <MESSAGE value="修改test" />
-    <option name="LAST_COMMIT_MESSAGE" value="修改test" />
+    <MESSAGE value="修改yml" />
+    <option name="LAST_COMMIT_MESSAGE" value="修改yml" />
   </component>
 </project>
